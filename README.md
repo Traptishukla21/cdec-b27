@@ -6,3 +6,4 @@ it's a open source
 it works on console (GUI)
 content added to ubuntu
 we are modifying readme file
+git is distributed version control system
